@@ -21,6 +21,7 @@ the numpy options in this are:
 (base) gauravsablok@Gauravs-MacBook-Pro:~/Desktop/GitHub/chpc_cluster
 main ✗ $ sh numpy_simulator.sh
 ask for the numpy command:
+# if left empty it will print this line. 
 please use the options command to list the options
 ```
 You can find me at the following professional web fronts. \
