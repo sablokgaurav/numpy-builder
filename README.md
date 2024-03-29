@@ -1,6 +1,5 @@
-# numpy_shell_builder
+# numpy-builder
 A numpy shell builder to extract and how to use the numpy across the arrays.I am putting the entire manual for those who like to search immediately rather than looking here and there. 
-
 ```
 main ✗ $ sh numpy_simulator.sh
 ask for the numpy command:options
