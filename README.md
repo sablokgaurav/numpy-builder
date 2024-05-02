@@ -23,7 +23,7 @@ ask for the numpy command:
 # if left empty it will print this line. 
 please use the options command to list the options
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
